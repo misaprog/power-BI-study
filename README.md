@@ -46,3 +46,6 @@ GitHub: 成果物の公開とバージョン管理
 Sales_Report.pdf: レポートの全画面プレビュー（閲覧用）
 
 Sales_Analysis.pbix: Power BI ワークブック本体
+
+<img width="1268" height="710" alt="スクリーンショット 2026-01-12 175708" src="https://github.com/user-attachments/assets/db86d5c2-ec36-4c7e-bedc-686d944346b2" />
+
